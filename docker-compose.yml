@@ -1,0 +1,7 @@
+version: '3.8'
+services: 
+  llama_api:
+    image: llama_qa:latest
+    build: .
+    ports:
+      - '8000:8000'

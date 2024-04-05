@@ -1,7 +1,7 @@
 # LLM Question and Answer Application V1🥋
 
 ## Description:
-This application implements a question-answering chatbot powered by the LLAMA model. Users can upload documents, ask questions about their content, and receive answers. The tool leverages LLAMA embeddings for efficient text processing and offers a user-friendly interface powered by Gradio. The LLM used is "llama-2-7b-chat.Q4_K_M.gguf" found [here](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF) 
+This application implements a question-answering chatbot powered by the LLAMA model. The LLM used is "llama-2-7b-chat.Q4_K_M.gguf" found [here](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF) 
 
 ## Usage:
 1. Ask questions about the content of the uploaded file - three_little_pigs.txt.
